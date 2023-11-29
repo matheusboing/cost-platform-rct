@@ -1,48 +1,15 @@
 {
   "projects": [
     {
-      "name": "Projeto Imobiliária",
-      "budget": "4000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "name": "Projeto Atualizado",
-      "budget": "50",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "name": "Projeto Posto",
-      "budget": "4000",
+      "name": "Projeto Apolo",
+      "budget": "500",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 13
-    },
-    {
-      "name": "Projeto farmácia",
-      "budget": "45000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 14
+      "id": 1
     }
   ],
   "categories": [
